@@ -1,0 +1,39 @@
+/* Resources Page Styling */
+#resources {
+    padding: 2rem;
+}
+
+h2 {
+    color: #4cafaa;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.resource-category {
+    margin-bottom: 2rem;
+}
+
+.resource-category h3 {
+    font-size: 1.5rem;
+    color: #4cafaa;
+    margin-bottom: 1rem;
+}
+
+.resource-category ul {
+    list-style: none;
+    padding: 0;
+}
+
+.resource-category li {
+    margin-bottom: 0.5rem;
+}
+
+.resource-category a {
+    color: #333;
+    text-decoration: none;
+}
+
+.resource-category a:hover {
+    color: #4cafaa;
+    text-decoration: underline;
+}
